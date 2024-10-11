@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.35.0",
+    "express": "^4.21.1"
+  },
+  "name": "influxdb-api",
+  "version": "1.0.0",
+  "main": "InfluxDB_API.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
